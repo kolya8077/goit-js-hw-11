@@ -1,4 +1,3 @@
-
 import { fetchImages } from './js/fetch-search';
 import { renderGallery } from './js/render-gallery';
 import Notiflix from 'notiflix';
